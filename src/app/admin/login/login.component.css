@@ -1,0 +1,14 @@
+.card {
+    box-shadow: 10px  10px  20px  rgba(255,0,0,0.19), 0  6px  6px  rgba(255,0,0,0.23);
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+card-header{
+color: red;
+}
+
+
+col-md-8{
+    padding: 30px;
+}
